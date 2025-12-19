@@ -1,0 +1,5 @@
+{
+  "name": "DCA Economy Balancer",
+  "description": "An interactive tool to simulate and balance the gamification economy for the DepressionControlApp, calculating point accumulation and reward feasibility over time.",
+  "requestFramePermissions": []
+}
